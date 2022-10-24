@@ -7,16 +7,3 @@ const app = () => {
 }
 
 export default app
-
-import React from 'react'
-import PropTypes from 'prop-types'
-
-const app = props => {
-  return (
-    <div>app</div>
-  )
-}
-
-app.propTypes = {}
-
-export default app
